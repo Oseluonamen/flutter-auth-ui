@@ -32,10 +32,16 @@ screenshots:
 ![validation_screen](https://github.com/user-attachments/assets/a9ff77d5-0d6f-410c-864a-1a533d23f5ad)
 
 
+Built With:
+- Flutter
+- Material 3
+
+
 How to Run:
 1. Clone the repository
 2. Run flutter pub get
 3. Run flutter run
+
 
 Note:
 This project focuses on UI and navigation only.
