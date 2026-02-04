@@ -15,7 +15,9 @@ screenshots:
 
 ![forgot_password_success](https://github.com/user-attachments/assets/b5dd0c0a-1294-4d6a-a35b-276d398040a9)
 
-![login_button_loading](https://github.com/user-attachments/assets/e11b767d-f7b2-4d0b-![Login_page](https://github.com/user-attachments/assets/72dff47e-b1be-432d-a50f-cfd865ab3912)
+![login_button_loading](https://github.com/user-attachments/assets/e11b767d-f7b2-4d0b-
+
+![Login_page](https://github.com/user-attachments/assets/72dff47e-b1be-432d-a50f-cfd865ab3912)
 b0a2-77b50cb4fc1f)
 
 ![signup_screen](https://github.com/user-attachments/assets/1e24b9a4-7f2e-4919-bb64-0252243024f0)
